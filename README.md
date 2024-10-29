@@ -1,0 +1,2 @@
+# calculatePowerSecond
+power calculation code
